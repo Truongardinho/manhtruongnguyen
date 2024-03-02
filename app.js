@@ -46,14 +46,14 @@ const html = `
     font-size: 24px;
 }
 h1{
-    color: white;
+    color: black;
     font-size: 25px;
     padding-top: 100px;
     padding-bottom: 25px;
 
 }
 h2{
-    color: white;
+    color: black;
     font-size: 18px;
     padding-bottom: 50px;
 }
